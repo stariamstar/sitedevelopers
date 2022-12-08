@@ -376,12 +376,12 @@ body {
 }
 
 .skills__column {
-  flex: 0 0 16%;
+  flex: 0 0 25%;
   text-align: center;
 }
 
 .item-skills {
-  width: 160px;
+  width: 100%;
   height: 210px;
   margin: auto;
 }
@@ -389,18 +389,21 @@ body {
 .item-skills__circle1 {
   width: 160px;
   height: 160px;
+  margin: 0 auto;
   background: center/contain no-repeat url(../images/Progress.png), center/contain no-repeat url(../images/base1.png);
 }
 
 .item-skills__circle2 {
   width: 160px;
   height: 160px;
+  margin: 0 auto;
   background: center/contain no-repeat url(../images/Progress2.png), center/contain no-repeat url(../images/base1.png);
 }
 
 .item-skills__circle3 {
   width: 160px;
   height: 160px;
+  margin: 0 auto;
   background: 7px 0px no-repeat url(../images/Progress3.png), center/contain no-repeat url(../images/base1.png);
 }
 
